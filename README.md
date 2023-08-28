@@ -14,7 +14,7 @@ This DApp store and retrieve people's mood in/from ethereum blockchain (Sepolia 
 1. Download and setup MetaMask if you do not have it already;
 2. Click on the User Icon at the top-right of MetaMask, go to Settings, and turn on Show Test Networks;
 3. Click on Ethereum Mainnet at the top of MetaMask and change it to Sepolia test network ;
-4. Request some Sepolia Testnet ETH from a faucet like this one - https://faucet.quicknode.com/ethereum/sepolia ;
+4. Request some Sepolia Testnet ETH from a faucet like this one - https://faucet.quicknode.com/ethereum/sepolia or https://sepoliafaucet.com;
 5. Install a code editor (We recommend Visual Studio Code) ;
 6. Install Node.js if you do not have it already (Use the LTS version, as that is stable. The latest version is experimental and may have bugs);
 7. Open up a terminal (Command Prompt on Windows, Terminal on macOS or Linux) and install lite-server so you can run your website.
