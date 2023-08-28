@@ -24,7 +24,7 @@ This DApp store and retrieve people's mood in/from ethereum blockchain (Sepolia 
 
 1. Clone this repository
 2. Navigate to the cloned repository from your computer;
-3. run this command on your terminal or command line interface
+3. run this command on your terminal or command line interface (lite-server)
 
 ## Make it Better
 
